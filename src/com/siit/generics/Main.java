@@ -28,7 +28,7 @@ public class Main {
 
         sortedRepository.save ( 23 );
         sortedRepository.save ( 11 );
-        sortedRepository.save ( 100 );
+        sortedRepository.save ( 100);
         sortedRepository.save ( 1 );
 
         sortedRepository.remove ( 100 );
